@@ -1,0 +1,2 @@
+Given an youtube channel's video link & a keyword, The programmed searched on youtube using that keyword and printed out the index number according to that channel's ranking on the search list.
+This whole automation was done usuing selenium with .python 
